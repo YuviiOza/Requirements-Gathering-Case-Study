@@ -61,7 +61,7 @@ Conducted using the **POPIT Model**, analyzing the impact on:
 - **People**: Training and change management for staff.
 - **Organization**: Process re-engineering and workflow adjustments.
 - **Processes**: Transition from manual to automated workflows.
-- **Technology**: Integration of OCR and ERP systems.
+- **Information & Technology**: Integration of OCR and ERP systems.
 
 ## **Business Case Components**
 
