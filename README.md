@@ -4,8 +4,6 @@ A comprehensive business case for automating Northwind Enterprises' invoice proc
 
 This repository contains a detailed business case proposing a solution to streamline and automate the invoicing process at Northwind Enterprises. The objective is to address existing inefficiencies, reduce errors, and improve supplier satisfaction while staying within the allocated budget.
 
----
-
 ## **Project Objectives**
 
 1. **Minimize Errors**:
@@ -25,8 +23,6 @@ This repository contains a detailed business case proposing a solution to stream
 5. **Scalability**:
    - Ensure the solution can handle peak business periods without requiring additional staff.
 
----
-
 ## **Solution Evaluation**
 
 The following solutions were analyzed:
@@ -41,8 +37,6 @@ The following solutions were analyzed:
 3. **Automation with OCR Technology**:
    - Implementing a fully automated invoice processing system.
    - Features: Optical Character Recognition (OCR), real-time invoice validation, ERP integration.
-
----
 
 ## **Capability Assessment**
 
@@ -60,8 +54,6 @@ The organization's readiness to implement the proposed solution was evaluated ba
 4. **Financial Resources**:
    - Budget availability of $250,000.
 
----
-
 ## **Impact Analysis**
 
 Conducted using the **POPIT Model**, analyzing the impact on:
@@ -70,8 +62,6 @@ Conducted using the **POPIT Model**, analyzing the impact on:
 - **Organization**: Process re-engineering and workflow adjustments.
 - **Processes**: Transition from manual to automated workflows.
 - **Technology**: Integration of OCR and ERP systems.
-
----
 
 ## **Business Case Components**
 
@@ -92,5 +82,3 @@ Conducted using the **POPIT Model**, analyzing the impact on:
 
 6. **Executive Summary**:
    Final recommendation and expected outcomes.
-
----
